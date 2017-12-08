@@ -1,5 +1,5 @@
 # hello-world
 
-Hi Humans,
+Hi,
 
 I am Java & JavaFX Developer 
